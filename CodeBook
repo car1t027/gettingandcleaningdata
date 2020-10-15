@@ -1,6 +1,6 @@
-#Code Book
+Code Book
 
-The project consisted on cleaning and processing data. The data used can be downloaded [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+The project consisted on cleaning and processing data
 
 Data:
 features - features.txt, 561 rows x 2 cols
